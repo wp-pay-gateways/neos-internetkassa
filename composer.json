@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/neos-internetkassa",
-	"description": "NEOS - Internet Kassa driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "neos", "internetkassa", "ogone", "gateway", "pronamic"],
+	"description": "[DEPRECATED] NEOS - Internet Kassa driver for the WordPress payment processing library.",
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "neos", "internetkassa", "ogone", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/neos-internetkassa/",
 	"license": "GPL",
 	"authors": [

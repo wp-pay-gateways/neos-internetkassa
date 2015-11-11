@@ -2,7 +2,10 @@
 
 class Pronamic_WP_Pay_Gateways_NEOS_InternetKassa_GatewayIntegration {
 	public function __construct() {
-		$this->id = 'neos-internetkassa';
+		$this->id         = 'neos-internetkassa';
+		$this->name       = 'NEOS - Internet Kassa';
+		$this->provider   = 'neos';
+		$this->deprecated = true;
 	}
 
 	public function get_config_factory_class() {

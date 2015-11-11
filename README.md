@@ -1,4 +1,4 @@
-# WordPress Pay Gateway: NEOS - Internet Kassa
+# [DEPRECATED] WordPress Pay Gateway: NEOS - Internet Kassa
 
 **NEOS - Internet Kassa driver for the WordPress payment processing library.**
 
