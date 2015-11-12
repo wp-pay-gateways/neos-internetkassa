@@ -1,6 +1,6 @@
 <?php
 
-class Pronamic_WP_Pay_Gateways_NEOS_InternetKassa_GatewayIntegration {
+class Pronamic_WP_Pay_Gateways_NEOS_InternetKassa_Integration {
 	public function __construct() {
 		$this->id         = 'neos-internetkassa';
 		$this->name       = 'NEOS - Internet Kassa';
